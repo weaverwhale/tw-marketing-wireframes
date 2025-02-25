@@ -43,7 +43,7 @@ const NavigationHeader = () => {
         title: 'Get started for free',
         description: 'Learn more about the free dashboard for ecommerce brands',
         cta: 'Learn more',
-        image: '/api/placeholder/400/280',
+        image: 'https://placehold.co/400x280',
       },
       sections: [
         {
@@ -119,7 +119,7 @@ const NavigationHeader = () => {
         title: 'Get a tour of Triple Whale',
         description: 'See the platform in action',
         cta: 'Get a tour',
-        image: '/api/placeholder/400/280',
+        image: 'https://placehold.co/400x280',
       },
       sections: [
         {
@@ -205,7 +205,7 @@ const NavigationHeader = () => {
         title: 'Q1 Benchmarks Report',
         description: 'Get all the insights on industry insights for Q1',
         cta: 'Get the report',
-        image: '/api/placeholder/400/280',
+        image: 'https://placehold.co/400x280',
       },
       sections: [
         {
