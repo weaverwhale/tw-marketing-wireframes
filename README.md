@@ -4,7 +4,7 @@ A collection of wireframes for the TW Marketing site.
 
 [https://tw-marketing.netlify.app/](https://tw-marketing.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8be5eab5-c574-4963-98f5-c23461c6c9f6/deploy-status)](https://app.netlify.com/sites/flourishing-granita-70f3a9/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1302f2b4-b1ec-41f1-b0c6-687932386f0c/deploy-status)](https://app.netlify.com/sites/tw-marketing/deploys)
 
 ## 🏁 Quick Start
 
